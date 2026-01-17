@@ -1,0 +1,12 @@
+# LangChain Core
+langchain
+langchain-core
+
+# OpenAI
+langchain-openai
+openai
+
+# Env
+python-dotenv
+
+grandalf
