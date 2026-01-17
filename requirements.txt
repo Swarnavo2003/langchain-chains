@@ -6,6 +6,10 @@ langchain-core
 langchain-openai
 openai
 
+# Gemini
+langchain-google-genai
+google-generativeai
+
 # Env
 python-dotenv
 
